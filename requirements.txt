@@ -2,8 +2,6 @@ Flask;
 numpy;
 tensorflow;
 Pillow;
-<<<<<<< HEAD
 scipy;
 gunicorn;
-=======
->>>>>>> 9fe7029cdf97466dc642bfd0c84869ce101c7516
+
